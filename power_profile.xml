@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<device name="Android">
+    <item name="ambient.on">24.2</item>
+    <item name="ambient.on.display0">24.2</item>
+    <item name="screen.on">30.4</item>
+    <item name="screen.on.display0">30.4</item>
+    <item name="screen.full">215.2</item>
+    <item name="screen.full.display0">215.2</item>
+    <item name="none">0.0</item>
+    
+    <item name="cpu.idle">23.4</item>
+    <item name="cpu.suspend">8.2</item>
+    
+    <item name="battery.capacity">3880.0</item>
+    <item name="battery.typical.capacity">4000.0</item>
+    
+    <item name="gps.on">64.8</item>
+    <item name="wifi.controller.idle">1.0</item>
+    <item name="wifi.controller.rx">120.0</item>
+    <item name="wifi.controller.tx">300.0</item>
+    <item name="wifi.controller.voltage">4000.0</item>
+    <item name="bluetooth.controller.idle">3.5</item>
+    <item name="bluetooth.controller.rx">12.0</item>
+    <item name="bluetooth.controller.tx">33.0</item>
+    <item name="bluetooth.controller.voltage">4000.0</item>
+    
+    <item name="audio">23.0</item>
+    <item name="video">25.0</item>
+    <item name="camera.avg">424.7</item>
+    <item name="camera.flashlight">128.4</item>
+
+    <array name="cpu.clusters.cores">
+        <value>4.0</value>
+        <value>3.0</value>
+        <value>2.0</value>
+        <value>1.0</value>
+    </array>
+
+    <array name="cpu.core_speeds.cluster0">
+        <value>400000.0</value>
+        <value>576000.0</value>
+        <value>672000.0</value>
+        <value>768000.0</value>
+        <value>864000.0</value>
+        <value>960000.0</value>
+        <value>1056000.0</value>
+        <value>1152000.0</value>
+        <value>1248000.0</value>
+        <value>1344000.0</value>
+        <value>1440000.0</value>
+        <value
